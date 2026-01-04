@@ -1,1 +1,1 @@
-# flaky-test-lab
+# Flaky Test Lab project.
